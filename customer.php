@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Customer Detials</title>
+	<style>
+    body{
+      background-image: url(aa.jpg);
+      background-size: 10000px 10000px;
+
+    }
+  
+   h3 , h1{
+       text-shadow: 3px 3px; 
+      font-size: 50px;
+      text-align: center;
+    }
+    div{
+     background-image: url(mm.jpg);
+      background-size: 350px 350px;
+    }
+    .moni{
+       
+        border-radius: 40px;
+        display: block;
+        margin : 60px;
+        width: 25%;
+        margin-left: 500px;
+    }
+	 .design{
+    border-radius: 40px;
+    margin:40px;
+    position: relative;
+    height:60%;
+    font-size: 24px;
+    width: 25%;
+    display: inline-block;
+    border: 30px white;
+   }
+   div a{
+          text-align: center;
+          text-decoration: none; 
+          background-color:blue ;
+         color: white;
+          margin:20%;
+          padding: 1%;
+          font-size: 25px;
+          border-radius: 20px;
+          
+    }
+  
+     a:hover{ 
+       background: white;
+       color: blue;
+       border-color: blue;
+       
+    }
+
+	</style>
+</head>
+<body>
+  <header>
+  	<h1>CUSTOMER DETIALS</h1>
+    <div style="text-align: center; font-size: 25px" class="moni"></br>
+    <b>   <h3 style="font-size: 30px ">ADMIN DETIALS:</h3></b>
+     <p>Name: Tharani</p>
+      <p>Net Balance=19,82,334</p></br>
+    </div>
+  </header>
+  <div class="design">
+    <ol>
+      Customer ID: bbt01</br></br>
+    	Name:Arya</br></br>
+      Email ID:arya01@bbt.in</br></br></br>
+     <a href="btto1.php">Transfer</a></br>
+      
+    </ol>
+  </div>
+  <div class="design"> <ol>	
+      Customer ID:bbt02</br></br>
+      Name:Aadhil</br></br>
+      Email ID:aadhil02@bbt.in</br></br></br>
+      <a href="btt02.php">Transfer</a></br>
+    </ol>
+  </div>
+  <div class="design">
+    <ol>
+      Customer ID:  bbt03</br></br>
+      Name       :Ananya</br></br>
+      Email ID   :ananya03@bbt.in</br></br></br>
+      <a href="btt03.php">Transfer</a></br>
+    </ol>
+  </div> 
+  <div class="design">
+    <ol>
+      Customer ID:bbt04</br></br>
+      Name       :Diya</br></br>
+      Email ID   :diya04@bbt.in</br></br></br>
+       <a href="btt04.php">Transfer</a></br>
+    </ol>
+  </div> 
+  <div class="design">
+    <ol>
+      Customer ID:bbt05</br></br>
+      Name       :Harish</br></br>
+      Email ID   :harish05@bbt.in</br></br></br>
+       <a href="btt05.php">Transfer</a></br>
+    </ol>
+  </div>
+  <div class="design">
+    <ol>
+      Customer ID:bbt06</br></br>
+      Name       :kalaivani</br></br>
+      Email ID   :kalaivani06@bbt.in</br></br></br>
+       <a href="btt06.php">Transfer</a></br>
+    </ol>
+  </div>     
+  <div class="design">
+    <ol>
+      Customer ID:bbt07</br></br>
+      Name       :Nancy</br></br>
+      Email ID   :nancy07@bbt.in</br></br></br>
+       <a href="btt07.php">Transfer</a></br>
+    </ol>
+  </div>    
+   <div class="design">
+    <ol>
+      Customer ID:bbt08</br></br>
+      Name       :Riyaz</br></br>
+      Email ID   :riyaz08@bbt.in</br></br></br>
+       <a href="btt08.php">Transfer</a></br>
+    </ol>
+  </div>   
+  <div class="design">
+    <ol>
+      Customer ID:bbt09</br></br>
+      Name       :Sophia</br></br>
+      Email ID   :sophia09@bbt.in</br></br></br>
+       <a href="btt09.php">Transfer</a></br>
+    </ol>
+  </div>  
+  <div class="design">
+    <ol>
+      Customer ID:bbt10</br></br>
+      Name       :Zara</br></br>
+      Email ID   :zara10@bbt.in</br></br></br>
+       <a href="btt10.php">Transfer</a></br>
+    </ol>
+  </div>    
+  
+</body>
+</html>
